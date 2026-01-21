@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TO CYPHER.txt"
+hash = "d1318ab8240626bc1b533babb25339a5b749fc8ead305c86105f5af1f52faa84"
+
+[[files]]
 file = "config/immersive_portals.json"
 hash = "0559e174ea4566be325062e5812a5aba48d1ac4c7fdc49ec2398ed472fa2beaf"
 
