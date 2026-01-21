@@ -1,325 +1,289 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".minecraft/config/immersive_portals.json"
+file = "config/immersive_portals.json"
 hash = "0559e174ea4566be325062e5812a5aba48d1ac4c7fdc49ec2398ed472fa2beaf"
 
 [[files]]
-file = ".minecraft/config/inventoryprofilesnext/170.205.26.22&25565/prev-villager-trading-config.json"
+file = "config/inventoryprofilesnext/170.205.26.22&25565/prev-villager-trading-config.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
-file = ".minecraft/config/inventoryprofilesnext/170.205.26.22&25565/villager-trading-config.json"
+file = "config/inventoryprofilesnext/170.205.26.22&25565/villager-trading-config.json"
 hash = "b6a17bafd7243323049cc9a50037d2e0ddd48a91d88222f47ab43e9611e7face"
 
 [[files]]
-file = ".minecraft/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = ".minecraft/config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "a3843e1479b9c9a29a0748e45447e9e0d5c9e5e7a59e5541ae9aba677de52904"
 
 [[files]]
-file = ".minecraft/config/inventoryprofilesnext/villager-trading-config.json"
+file = "config/inventoryprofilesnext/villager-trading-config.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
-file = ".minecraft/icon.png"
+file = "icon.png"
 hash = "e70af93ca4f4fcf15a2ae75095049a656316e346bab79a7de867370261fca5e4"
 
 [[files]]
-file = ".minecraft/mods/CBMultipart-1.20.1-3.3.0.146-universal.jar"
+file = "mods/CBMultipart-1.20.1-3.3.0.146-universal.jar"
 hash = "bd27ec9f87a9fce9967cce6bc6e4b50d0024fc0e0cf9e2ca3b530c9ff8e97a9e"
 
 [[files]]
-file = ".minecraft/mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar"
+file = "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar"
 hash = "9037fc4bc73e4cec717501fc362f660f46c2a1ac34674da2106b4605b3e4d8db"
 
 [[files]]
-file = ".minecraft/mods/CommonCapabilities-1.20.1-2.9.4.jar"
+file = "mods/CommonCapabilities-1.20.1-2.9.4.jar"
 hash = "57443e616bd4864bc3f41816f822b92772829e846a1434ff5bb277e782e12193"
 
 [[files]]
-file = ".minecraft/mods/CyclopsCore-1.20.1-1.19.7.jar"
+file = "mods/CyclopsCore-1.20.1-1.19.7.jar"
 hash = "bd5782a7204dcb4fd4d7f29ca76942554739733bacb048a56f31ebb996b14315"
 
 [[files]]
-file = ".minecraft/mods/Dungeon Crawl-1.20.1-2.3.15.jar"
+file = "mods/Dungeon Crawl-1.20.1-2.3.15.jar"
 hash = "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514"
 
 [[files]]
-file = ".minecraft/mods/ITank-1.20.1-2.1.0.jar"
+file = "mods/ITank-1.20.1-2.1.0.jar"
 hash = "04877eafd8559817c797fbec4f850de5fc20170f87694e6cb5f59454793e5212"
 
 [[files]]
-file = ".minecraft/mods/IntegratedDynamics-1.20.1-1.25.4.jar"
+file = "mods/IntegratedDynamics-1.20.1-1.25.4.jar"
 hash = "4f7e5955e8096ec25182b7a9ccb0ae182ad7304dc231ff6aa752e00c6efea406"
 
 [[files]]
-file = ".minecraft/mods/InventoryProfilesNext-forge-1.20-1.10.14.jar"
+file = "mods/InventoryProfilesNext-forge-1.20-1.10.14.jar"
 hash = "94c0b2f76687fec9cdfe1e530f78fd0b41f0152afab78b1193256f8db1b9817c"
 
 [[files]]
-file = ".minecraft/mods/Jade-1.20.1-Forge-11.12.3.jar"
+file = "mods/Jade-1.20.1-Forge-11.12.3.jar"
 hash = "c8fc883acd8a7b1a10cad75dd06529d2bedec8c4efe1e64ce279126120c792cc"
 
 [[files]]
-file = ".minecraft/mods/JustEnoughResources-1.20.1-1.4.0.247.jar"
+file = "mods/JustEnoughResources-1.20.1-1.4.0.247.jar"
 hash = "311d3a83db489d27b96cd15deb690ce64c78cffb552c25c3dff85956a14ec09e"
 
 [[files]]
-file = ".minecraft/mods/Mantle-1.20.1-1.11.44.jar"
+file = "mods/Mantle-1.20.1-1.11.44.jar"
 hash = "f062a6a21a36ee1ea74085bbb6f7a2a5475f5fc87bf6764bffdc418dc1382934"
 
 [[files]]
-file = ".minecraft/mods/Mekanism-1.20.1-10.4.15.75.jar"
+file = "mods/Mekanism-1.20.1-10.4.15.75.jar"
 hash = "5ad0efe29f32524be436e0843f930b03702678703b82a6bf66d3cb987369671e"
 
 [[files]]
-file = ".minecraft/mods/MekanismAdditions-1.20.1-10.4.15.75.jar"
+file = "mods/MekanismAdditions-1.20.1-10.4.15.75.jar"
 hash = "25a53ff2a75666e39e64de9a0ffd249e62fd116b801046f70947eed1a5cf5281"
 
 [[files]]
-file = ".minecraft/mods/MekanismBridge-Universal-3.1.jar"
+file = "mods/MekanismBridge-Universal-3.1.jar"
 hash = "6f0bc4c7f83b16c6ff4719b94bee8d6c32b2d56d6a7f20e368c7ac8d69226432"
 
 [[files]]
-file = ".minecraft/mods/MekanismGenerators-1.20.1-10.4.15.75.jar"
+file = "mods/MekanismGenerators-1.20.1-10.4.15.75.jar"
 hash = "ad0b69d932922b55d4f76e8be8ff41e04a0ff8988d60ebedd0ffba591a155d78"
 
 [[files]]
-file = ".minecraft/mods/MekanismTools-1.20.1-10.4.15.75.jar"
+file = "mods/MekanismTools-1.20.1-10.4.15.75.jar"
 hash = "363c95292ff08edd8c948d4b5623ca9393f633f5d640d1e03103e982cbe1fd33"
 
 [[files]]
-file = ".minecraft/mods/Patchouli-1.20.1-84.1-FORGE.jar"
+file = "mods/Patchouli-1.20.1-84.1-FORGE.jar"
 hash = "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056"
 
 [[files]]
-file = ".minecraft/mods/ProjectRed-1.20.1-4.20.0-core.jar"
+file = "mods/ProjectRed-1.20.1-4.20.0-core.jar"
 hash = "de09025b6137664e890c1cf7b28b97cd6cc922833f7477643a7c772943e9207c"
 
 [[files]]
-file = ".minecraft/mods/ProjectRed-1.20.1-4.20.0-expansion.jar"
+file = "mods/ProjectRed-1.20.1-4.20.0-expansion.jar"
 hash = "017b1f81900252f93cc4582146d203b955263cc6125258518f3eb00a7f98ef0f"
 
 [[files]]
-file = ".minecraft/mods/ProjectRed-1.20.1-4.20.0-illumination.jar"
+file = "mods/ProjectRed-1.20.1-4.20.0-illumination.jar"
 hash = "587f43e17ea09dfd0d30c37855ee54091fbdf8921d66a65ac6b543bb3ae21282"
 
 [[files]]
-file = ".minecraft/mods/ProjectRed-1.20.1-4.20.0-integration.jar"
+file = "mods/ProjectRed-1.20.1-4.20.0-integration.jar"
 hash = "6f6030c840fd812549120936ede627d82f6cc28057caaf0311e8be9a337b97e8"
 
 [[files]]
-file = ".minecraft/mods/TConstruct-1.20.1-3.9.2.37.jar"
+file = "mods/TConstruct-1.20.1-3.9.2.37.jar"
 hash = "13ff4eccdf641485d059a902d2ad58daf9ff85914da456ab1a9d00bc44f31ba6"
 
 [[files]]
-file = ".minecraft/mods/almostunified-forge-1.20.1-0.11.0.jar"
+file = "mods/almostunified-forge-1.20.1-0.11.0.jar"
 hash = "2ce69432abd105aa9e8627d3294dacb747331d73b07725cd30650ad78eae00bb"
 
 [[files]]
-file = ".minecraft/mods/architectury-9.2.14-forge.jar"
+file = "mods/architectury-9.2.14-forge.jar"
 hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
 [[files]]
-file = ".minecraft/mods/caelus-forge-3.2.0+1.20.1.jar"
+file = "mods/caelus-forge-3.2.0+1.20.1.jar"
 hash = "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
 
 [[files]]
-file = ".minecraft/mods/cloth-config-11.1.136-forge.jar"
+file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
 
 [[files]]
-file = ".minecraft/mods/cofh_core-1.20.1-11.0.2.56.jar"
+file = "mods/cofh_core-1.20.1-11.0.2.56.jar"
 hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
 
 [[files]]
-file = ".minecraft/mods/configured-forge-1.20.1-2.2.3.jar"
+file = "mods/configured-forge-1.20.1-2.2.3.jar"
 hash = "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
 
 [[files]]
-file = ".minecraft/mods/create-1.20.1-0.5.1.j.jar"
+file = "mods/create-1.20.1-0.5.1.j.jar"
 hash = "a18763be04f6a7921d2e3bc5e9150b0bb5bc89b5ef45a607e93939972021f932"
 
 [[files]]
-file = ".minecraft/mods/curios-forge-5.14.1+1.20.1.jar"
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
-file = ".minecraft/mods/ensorcellation-1.20.1-5.0.2.24.jar"
+file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
 hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
 
 [[files]]
-file = ".minecraft/mods/ftb-chunks-forge-2001.3.6.jar"
+file = "mods/ftb-chunks-forge-2001.3.6.jar"
 hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"
 
 [[files]]
-file = ".minecraft/mods/ftb-essentials-forge-2001.2.3.jar"
+file = "mods/ftb-essentials-forge-2001.2.3.jar"
 hash = "dcbec178981988fc67e8838e8eba948325988221941daa6e5dd65441974b39f0"
 
 [[files]]
-file = ".minecraft/mods/ftb-filter-system-forge-20.0.1.jar"
+file = "mods/ftb-filter-system-forge-20.0.1.jar"
 hash = "fcb7b312a010986a868a6645e4e395b2635383a2387297c7c134aa4250959e24"
 
 [[files]]
-file = ".minecraft/mods/ftb-library-forge-2001.2.12.jar"
+file = "mods/ftb-library-forge-2001.2.12.jar"
 hash = "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96"
 
 [[files]]
-file = ".minecraft/mods/ftb-quests-forge-2001.4.17.jar"
+file = "mods/ftb-quests-forge-2001.4.17.jar"
 hash = "0c9e8a8a0cbeb2f77f9f50a412758e66fb01d638c8b43feef7262d8c2cedd60d"
 
 [[files]]
-file = ".minecraft/mods/ftb-ranks-forge-2001.1.7.jar"
+file = "mods/ftb-ranks-forge-2001.1.7.jar"
 hash = "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872"
 
 [[files]]
-file = ".minecraft/mods/ftb-teams-forge-2001.3.1.jar"
+file = "mods/ftb-teams-forge-2001.3.1.jar"
 hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
 
 [[files]]
-file = ".minecraft/mods/ftb-xmod-compat-forge-2.1.3.jar"
+file = "mods/ftb-xmod-compat-forge-2.1.3.jar"
 hash = "16a8eb9de88d5c33d29cb076cc39dfb337b2c54348e1ef1efe9dd60cf85e5f72"
 
 [[files]]
-file = ".minecraft/mods/geckolib-forge-1.20.1-4.7.jar"
+file = "mods/geckolib-forge-1.20.1-4.7.jar"
 hash = "34c87687f80d6bc098a9a63fb1dc94c288554c8d7e4903143d8ff1742a4b6261"
 
 [[files]]
-file = ".minecraft/mods/gravestone-forge-1.20.1-1.0.24.jar"
+file = "mods/gravestone-forge-1.20.1-1.0.24.jar"
 hash = "f4dfc92a9be4147155817229dbab0d46d5f4ce612b382693b65874afda83d758"
 
 [[files]]
-file = ".minecraft/mods/hexcasting-forge-1.20.1-0.11.3.jar"
+file = "mods/hexcasting-forge-1.20.1-0.11.3.jar"
 hash = "1a20d9b66357419910682299329ddbc945270e1a7d136da223b0eaad40ff91dc"
 
 [[files]]
-file = ".minecraft/mods/immersive-portals-3.0.7-all.jar"
+file = "mods/immersive-portals-3.0.7-all.jar"
 hash = "deb233d1e530e5e208ba6f3529a3b90ad071a06a2dc8d7ea60f14b0d67912efc"
 
 [[files]]
-file = ".minecraft/mods/inline-forge-1.20.1-1.2.2.jar"
+file = "mods/inline-forge-1.20.1-1.2.2.jar"
 hash = "fe34e79fa98d67cfd48e1fa8da1893a9e0be4165c792374ede3099642c8b0336"
 
 [[files]]
-file = ".minecraft/mods/ironchest-1.20.1-14.4.4.jar"
+file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
-file = ".minecraft/mods/jei-1.20.1-forge-15.20.0.106.jar"
+file = "mods/jei-1.20.1-forge-15.20.0.106.jar"
 hash = "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587"
 
 [[files]]
-file = ".minecraft/mods/kotlinforforge-4.11.0-all.jar"
+file = "mods/kotlinforforge-4.11.0-all.jar"
 hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
 [[files]]
-file = ".minecraft/mods/kubejs-forge-2001.6.5-build.16.jar"
+file = "mods/kubejs-forge-2001.6.5-build.16.jar"
 hash = "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5"
 
 [[files]]
-file = ".minecraft/mods/libIPN-forge-1.20-4.0.2.jar"
+file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
 
 [[files]]
-file = ".minecraft/mods/mcjtylib-1.20-8.0.6.jar"
+file = "mods/mcjtylib-1.20-8.0.6.jar"
 hash = "ef5f32a85584b6464d76bf98c967775335f8b3c8dcb6694572ade316583bb9f2"
 
 [[files]]
-file = ".minecraft/mods/mna-forge-1.20.1-3.1.0.4-all.jar"
+file = "mods/mna-forge-1.20.1-3.1.0.4-all.jar"
 hash = "af90e85ebf792213dbe2a36ccf96aed48fdbed81449fc68ef420b3915c5c5d5b"
 
 [[files]]
-file = ".minecraft/mods/multimine-1.20.1.4.jar"
+file = "mods/multimine-1.20.1.4.jar"
 hash = "3e8f152bfe0e57718553d5baa1e6fdefe04867470446cadd81d0e0c8b08b5150"
 
 [[files]]
-file = ".minecraft/mods/paucal-0.6.0+1.20.1-forge.jar"
+file = "mods/paucal-0.6.0+1.20.1-forge.jar"
 hash = "3f403fc200e744cc85c348206da70e4fb34808f14fda3fc88b0bde1688b784ca"
 
 [[files]]
-file = ".minecraft/mods/redstonepen-1.20.1-neoforge-1.3.33.jar"
+file = "mods/redstonepen-1.20.1-neoforge-1.3.33.jar"
 hash = "aef08bd294a9cceb07eb853224488d9444104eee0d37e2904e3ae62624d2d518"
 
 [[files]]
-file = ".minecraft/mods/reliquary-1.20.1-2.0.45.1248.jar"
+file = "mods/reliquary-1.20.1-2.0.45.1248.jar"
 hash = "25e30415b0db1bd56bcbf05a265b2d1c622a8b5795564f10af4e3ab30be6e9a4"
 
 [[files]]
-file = ".minecraft/mods/rhino-forge-2001.2.3-build.10.jar"
+file = "mods/rhino-forge-2001.2.3-build.10.jar"
 hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 
 [[files]]
-file = ".minecraft/mods/scholar-1.20.1-1.1.9-forge.jar"
+file = "mods/scholar-1.20.1-1.1.9-forge.jar"
 hash = "687e66b8f6d79e973da2781020384afcab6fb4b869eac20f8acac86a44aec7dd"
 
 [[files]]
-file = ".minecraft/mods/tabinfo-1.0.6 1.20.1 Forge.jar"
+file = "mods/tabinfo-1.0.6 1.20.1 Forge.jar"
 hash = "91a53b9b8c4f9fd718489102956e607e1298e8cb385fec6b978840543b077440"
 
 [[files]]
-file = ".minecraft/mods/tfmg-0.9.3-1.20.1.jar"
+file = "mods/tfmg-0.9.3-1.20.1.jar"
 hash = "f0c1217ed3b11f6b5cb8a99336e45fc2c557bc118882b85eafd3b82e0a75b6bb"
 
 [[files]]
-file = ".minecraft/mods/twilightforest-1.20.1-4.3.2508-universal.jar"
+file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = ".minecraft/mods/workshop_for_handsome_adventurer--mc1.20.1--1.32.5.jar"
+file = "mods/workshop_for_handsome_adventurer--mc1.20.1--1.32.5.jar"
 hash = "a3d35a476fe9bdd8e1bacff1ee562c3b0d51607ce27d08caec5393256bf9ea4e"
 
 [[files]]
-file = ".minecraft/patchouli_data.json"
+file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
 [[files]]
-file = ".minecraft/servers.dat"
+file = "servers.dat"
 hash = "9db0f3a44d6e91e078bd8ee3f5060ca3cc334dfa4621ff4ae266647fbd54ff4b"
 
 [[files]]
-file = ".minecraft/servers.dat_old"
+file = "servers.dat_old"
 hash = "9db0f3a44d6e91e078bd8ee3f5060ca3cc334dfa4621ff4ae266647fbd54ff4b"
 
 [[files]]
-file = ".minecraft/usercache.json"
+file = "usercache.json"
 hash = "3abc1b6940ade5f7beeffd743336c2f6d27a0d5005d8009d47e0521456de8a4d"
-
-[[files]]
-file = ".packignore"
-hash = "db3aa596119f1c54e610bce0a4754ceab502e9867fc71f8f4fa6e367977c98e6"
-
-[[files]]
-file = "instance.cfg"
-hash = "95c34413755d2e053d7712c9547db31b066f8142837322b6b5a5aa054b889063"
-
-[[files]]
-file = "mmc-pack.json"
-hash = "f32fbf955f419ecff75f387c8a2fad82b6e63c21ed062b6df0c8f68728e50aca"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/glfw/glfw.dll"
-hash = "f61949c469c54a5f4e5a8e1668255b919ee1237f1e568acf4127dda0abcdc9a8"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/jemalloc/jemalloc.dll"
-hash = "1ad286d44900517227a3dbcf6b3626af2117a624e6bd684cf8fbd2cc50619817"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/lwjgl.dll"
-hash = "1cbc8a197aea7eee710735a57a8cae6c0953ad1fe2cb6e17c2e5afebeb93b5ec"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/openal/OpenAL.dll"
-hash = "68098b344486a67d33bafc1cc56a483d5e8217857eda43e7dc2e67abc8c542e9"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/opengl/lwjgl_opengl.dll"
-hash = "8c65468929fbe35b967a7daedf6e5e7fda2f25f5f0b14465e21cdf705ddd92a9"
-
-[[files]]
-file = "natives/windows/x64/org/lwjgl/stb/lwjgl_stb.dll"
-hash = "8e068d00eb284423ce6e3019925f520a7c5638c6d7254312762840c5e3e29a2f"
