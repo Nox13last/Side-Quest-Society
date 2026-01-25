@@ -149,6 +149,10 @@ file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
+file = "mods/emi-1.1.22+1.20.1+forge.jar"
+hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
+
+[[files]]
 file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
 hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
 
@@ -209,10 +213,6 @@ file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
 [[files]]
-file = "mods/jei-1.20.1-forge-15.20.0.106.jar"
-hash = "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587"
-
-[[files]]
 file = "mods/kotlinforforge-4.11.0-all.jar"
 hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
@@ -263,6 +263,10 @@ hash = "91a53b9b8c4f9fd718489102956e607e1298e8cb385fec6b978840543b077440"
 [[files]]
 file = "mods/tfmg-0.9.3-1.20.1.jar"
 hash = "f0c1217ed3b11f6b5cb8a99336e45fc2c557bc118882b85eafd3b82e0a75b6bb"
+
+[[files]]
+file = "mods/toomanyrecipeviewers-0.7.1+mc.20.1.jar"
+hash = "1ea4117df3b1f7532f8abb2a09f48150a23225dfd6cbd663f0c00c7a62a4c879"
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
