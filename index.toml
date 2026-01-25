@@ -41,6 +41,10 @@ file = "mods/CommonCapabilities-1.20.1-2.9.4.jar"
 hash = "57443e616bd4864bc3f41816f822b92772829e846a1434ff5bb277e782e12193"
 
 [[files]]
+file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
+hash = "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
+
+[[files]]
 file = "mods/CyclopsCore-1.20.1-1.19.7.jar"
 hash = "bd5782a7204dcb4fd4d7f29ca76942554739733bacb048a56f31ebb996b14315"
 
