@@ -1,12 +1,12 @@
 name = "Side Quest Society Forever Edition"
 author = "Noxedwin"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "998783d7e62a0e3e716a6090d22024869936867d84633f34b81bd601d9e6dcc1"
+hash = "6f5f0242e134598e3c8f22c4a0cf860e25e89503cbcc645bba83ea2271107a49"
 
 [versions]
 forge = "47.4.10"
